@@ -10,6 +10,11 @@ I'm Alexandra, a beginner software developer passionate about learning and build
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=alexandra200312&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandra200312&layout=compact&theme=radical)
+
+
+
+
 
 
 <!--
