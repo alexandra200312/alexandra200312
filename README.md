@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+I'm Alexandra, a beginner software developer passionate about learning and building cool project. Currently, I'm exploring Javascript and game development.
+
+### 📌 My Projects
+
+
+
+### Cool statisctics
+
+![GitHub Streak](https://streak-stats.demolab.com?user=alexandra200312&theme=radical)
+
+
+
 <!--
 **alexandra200312/alexandra200312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
